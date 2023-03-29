@@ -1,7 +1,7 @@
 <h1>To-Do List</h1>
 Este é um projeto simples de uma lista de tarefas, na qual você pode adicionar, marcar como concluída e remover tarefas.
 <br>
-Para acessar o projeto, clique <a href="https://klisman.github.io/todo-list/">aqui</a>.
+Para acessar o projeto, clique <a href="https://todozone.netlify.app">aqui</a>.
 
 <h2>Instalação</h2>
 Não é necessário instalar nada. Basta baixar ou clonar o repositório e abrir o arquivo index.html no seu navegador.
